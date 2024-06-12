@@ -71,8 +71,6 @@ class Main {
             }
             rooms.add(room);
         }
-
-
         scanner.close();
     }
 
